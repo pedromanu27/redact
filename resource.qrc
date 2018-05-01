@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icones/About.png</file>
+        <file>icones/Close.png</file>
+        <file>icones/Copy.png</file>
+        <file>icones/Cut.png</file>
+        <file>icones/Folder.png</file>
+        <file>icones/New document.png</file>
+        <file>icones/Paste.png</file>
+        <file>icones/Save.png</file>
+        <file>icones/Text preview.png</file>
+        <file>icones/Undo.png</file>
+        <file>icones/Colorsync Profile.png</file>
+        <file>icones/Digital Color Meter.png</file>
+        <file>icones/filesaveas.png</file>
+        <file>icones/fileprint.png</file>
+        <file>icones/fonts.png</file>
+    </qresource>
+</RCC>

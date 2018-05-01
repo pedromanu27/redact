@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icones2/editcopy.png</file>
+        <file>icones2/editcut.png</file>
+        <file>icones2/editpaste.png</file>
+        <file>icones2/exit.png</file>
+        <file>icones2/filenew.png</file>
+        <file>icones2/fileopen.png</file>
+        <file>icones2/fileprint.png</file>
+        <file>icones2/filesave.png</file>
+        <file>icones2/filesaveas.png</file>
+        <file>icones2/find.png</file>
+        <file>icones2/fonts.png</file>
+        <file>icones2/info.png</file>
+    </qresource>
+</RCC>
